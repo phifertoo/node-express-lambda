@@ -1,0 +1,23 @@
+{
+  "name": "node-express-lambda",
+  "version": "1.0.0",
+  "description": "Node Express deployed with Lambda using Zeet",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeet-demo/node-express-lambda.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zeet-demo/node-express-lambda/issues"
+  },
+  "homepage": "https://github.com/zeet-demo/node-express-lambda#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "serverless-http": "^2.7.0"
+  }
+}
